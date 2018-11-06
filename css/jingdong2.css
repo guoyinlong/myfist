@@ -1,0 +1,81 @@
+	.hov:hover{
+		color: #c81623;
+	}
+	#fenlei ul li:hover{
+		background: #999395;
+	}
+	#fenlei span:hover{
+		color: #c81623;
+		cursor: pointer;
+	}
+	.tishi:hover{
+		color: #c81623;
+		cursor: pointer;
+	}
+	#zuce:hover{
+		color: #c81623;
+	}
+	#anshi1:hover{
+		color: #c81623;
+	}
+	.dbspan:hover{
+		color: #c81623;
+		cursor: pointer;
+	}
+	#gerendl:hover,#gerenzc:hover{
+		color: #c81623;
+		cursor: pointer;
+	}
+	#touxiang:hover{
+		cursor: pointer;
+	}
+	#gerenbottom div:hover{
+		color: white;
+		background: #e01222;
+		cursor: pointer;
+	}
+	#kjtable tr td:hover{
+		color: #c81623;
+	}
+	#gengduo:hover,#cuxiao tr td:hover,#gonggao tr td:hover{
+		color: #c81623;
+		cursor: pointer;
+	}
+	#kjtable td:hover{
+		color: #c81623;
+		cursor: pointer;
+	}
+	.kkimg:hover{
+		color: #c81623;
+		cursor: pointer;
+	}
+	/*.kkp1:hover{
+		color: #c81623;
+		class="shouzhi"
+	}*/
+	#haohuoneirong td:hover{
+		cursor: pointer;
+	}
+	#youpinneirong img:hover{
+		cursor: pointer;
+	}
+	#zhuanjinav li:hover{
+		cursor: pointer;
+	}
+	.facespan:hover{
+		color: #c81623;
+		background: #f4f4f4;
+		cursor: pointer;
+	}
+	.facespan2:hover{
+		color: #c81623;
+	}
+	#zhuanjinav ul li:hover{
+		border-bottom: 2px solid #f10214;
+	}
+	.shouzhi:hover{
+		cursor: pointer;
+	}
+	#footerimgs img:hover{
+		cursor: pointer;
+	}
